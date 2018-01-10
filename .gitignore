@@ -60,3 +60,11 @@ target/
 
 # pyenv python configuration file
 .python-version
+/kg_recurit_restaurant_visitor_forecasting/data/zip/sample_submission.csv.zip
+/kg_recurit_restaurant_visitor_forecasting/data/zip/date_info.csv.zip
+/kg_recurit_restaurant_visitor_forecasting/data/zip/hpg_reserve.csv.zip
+/kg_recurit_restaurant_visitor_forecasting/data/zip/air_visit_data.csv.zip
+/kg_recurit_restaurant_visitor_forecasting/data/zip/air_reserve.csv.zip
+/kg_recurit_restaurant_visitor_forecasting/data/zip/air_store_info.csv.zip
+/kg_recurit_restaurant_visitor_forecasting/data/zip/store_id_relation.csv.zip
+/kg_recurit_restaurant_visitor_forecasting/data/zip/hpg_store_info.csv.zip
