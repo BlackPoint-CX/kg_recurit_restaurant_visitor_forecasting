@@ -63,3 +63,7 @@ def raw_data():
     all_predict_features = np.array(all_predict_features)
     all_predict_labels = np.array(all_predict_labels)
     return all_train_features, all_train_labels, all_predict_features, all_predict_labels
+
+
+if __name__ == '__main__':
+    pass
